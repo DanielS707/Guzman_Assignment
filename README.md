@@ -1,2 +1,3 @@
 # Guzman_Assignment
-For Shuxiang Sui
+Assignment For Shuxiang Sui Full Time Internship 
+ss6711@columbia.edu
