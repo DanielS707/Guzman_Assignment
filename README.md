@@ -1,3 +1,3 @@
 # Guzman_Assignment
-Assignment For Shuxiang Sui Full Time Internship 
-ss6711@columbia.edu
+Assignment Demo For Shuxiang Sui 
+please contact ss6711@columbia.edu for the rest of the analysis demonstrations. 
